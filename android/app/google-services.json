@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773038533110",
+    "project_id": "poko-79bc3",
+    "storage_bucket": "poko-79bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773038533110:android:9996f1af3fa7d4b4b87fd7",
+        "android_client_info": {
+          "package_name": "com.example.poko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773038533110-p8jeo8mktd41bcbhqbf9004phqrcon43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACq5i7ncdSMYU5yCM8IOs4rni3FtvVGnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773038533110-p8jeo8mktd41bcbhqbf9004phqrcon43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
